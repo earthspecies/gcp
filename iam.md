@@ -1,6 +1,6 @@
 # IAM Notes
 
-Knowledge about IAM that I'd frankly not have in my head.
+Knowledge about IAM that I'd rather not have in my head.
 
 ## Granting user access across VMs
 
